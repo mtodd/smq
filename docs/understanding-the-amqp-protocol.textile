@@ -1,0 +1,9 @@
+h1. Understanding the AMQP Protocol
+
+h2. The AMQP Model
+
+The AMQP Model is the specification of components and functionality that make up an AMQP broker's supported behavior and what the client expects.
+
+h2. The Network Wire-Level Format
+
+The Network Wire-Level Format specifies a consistent way for any and all clients and brokers to communicate between each other.
