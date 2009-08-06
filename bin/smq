@@ -1,0 +1,9 @@
+#!/usr/bin/env ruby
+
+require 'rubygems'
+
+# SMQ command line interface script.
+# Run <tt>smq -h</tt> to get more usage.
+require File.dirname(__FILE__) + '/../lib/smq'
+ 
+SMQ::Runner.run!(ARGV)
